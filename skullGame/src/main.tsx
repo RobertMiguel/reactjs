@@ -4,6 +4,7 @@ import {Car} from './useState'
 import { App } from './useState'
 import { Time } from './useEffect';
 import { Counter } from './useEffect';
+import { Ref} from './useRef'
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
@@ -11,5 +12,6 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <Car />
     <Time />
     <Counter />
+    <Ref/>
   </React.StrictMode>
 )
