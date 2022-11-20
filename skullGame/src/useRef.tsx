@@ -21,4 +21,5 @@ export function Ref() {
             <h2>Valor anterior : {previousInputValue.current}</h2>
         </>
     )
+    
 }
