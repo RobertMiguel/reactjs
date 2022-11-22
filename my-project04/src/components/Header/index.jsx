@@ -14,6 +14,7 @@ const Header = () => {
       {sidebar && <Sidebar active={setSidebar} />}
     </Container>
   )
+  
 }
 
 export default Header
