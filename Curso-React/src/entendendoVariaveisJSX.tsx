@@ -24,4 +24,5 @@ export function VarJSX() {
       <img src={url} alt="Random imagem"  />
     </div>
   )
+  
 }
