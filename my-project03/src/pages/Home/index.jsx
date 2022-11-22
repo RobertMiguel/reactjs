@@ -17,5 +17,6 @@ export function Home() {
     <Card name="robert" time="10:55:25"></Card>
     <Card name="joao" time="11:00:10"></Card>
     </div>
+
   )
 }
