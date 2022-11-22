@@ -31,6 +31,7 @@ const Sidebar = ({ active }) => {
       </Content>
     </Container>
   )
+  
 }
 
 export default Sidebar
